@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sportz Interactive</title>
+    <link rel="stylesheet" href="./src/style.css">
+    <script src="./src/api.js" defer></script>
+    
+</head>
+<body>
+    
+    <!-- search section -->
+    <div class="search-wrapper">
+        <label>Search Players</label>
+        <input type="text" id="search" placeholder="Enter the player name" data-search>
+    </div>
+
+    <!-- playercards section -->
+    <div class = "cards" data-player-cards-container></div>
+        
+        <!-- created a template to use the template for the api reference part -->
+        <template data-player-template>
+            <div class = "playerInfo">
+                <img src="./player-images/95803.jpg" alt="playerImage" player-img>
+                <div class = "cardText">
+                    <h3 class = "pfName" playerName>Name: </h3>
+                    <p class = "tName" player-teamName>Team: </p>
+                    <p class = "skillDesc" player-skillDes>Skills: </p>
+                    <p class = "value" player-value>Value: </p>
+                    <p class = "upComingMatchesListcCode" player-upcomingMatch>Upcoming Match: 
+                        <p class="upComingMatchesListvsCode" player-upcomingvsMatch> vs </p>
+                    </p>
+                    <p class = "nextMatchTime" player-nextMatchTime>Next Match Time: </p>
+                </div>
+            </div> 
+        </template>
+
+
+    
+
+
+
+    
+
+    
+
+</body>
+</html>

@@ -1,0 +1,170 @@
+{
+    
+  "playerData" : [
+  {
+      "id": 1,
+      "img": "http://localhost:5500/player-images/63706.jpg",
+      "pfName": "Cristiano Ronaldo",
+      "tName": "Juventus",
+      "skillDesc": "Forward",
+      "value": "$12",
+      "upComingMatchesListcCode": "JUV",
+      "upComingMatchesListvsCode": " OLY",
+      "nextMatchTime": "2/10/2019 12:00:00 AM"
+  },
+  {
+      "id": 2,
+      "img": "http://localhost:5500/player-images/64257.jpg",
+      "pfName": "David Silva",
+      "tName": "Man. City",
+      "skillDesc": "Midfield",
+      "value":  "$9.0",
+      "upComingMatchesListcCode": "MC",
+      "upComingMatchesListvsCode": " SHK",
+      "nextMatchTime": "2/10/2019 12:00:00 AM"
+  },
+  {
+      "id": 3,
+      "img": "http://localhost:5500/player-images/72048.jpg",
+      "pfName": "Edin Dzeko",
+      "tName": "Roma",
+      "skillDesc": "Forward",
+      "value": "$10.5",
+      "upComingMatchesListcCode": "ASR",
+      "upComingMatchesListvsCode": " QAR",
+      "nextMatchTime": "2/10/2019 12:00:00 AM"
+  },
+  {
+      "id": 4,
+      "img": "http://localhost:5500/player-images/73965.jpg",
+      "pfName": "Marek Hamsik",
+      "tName": "Napoli",
+      "skillDesc": "Midfield",
+      "value": "$9.0",
+      "upComingMatchesListcCode": "NAP",
+      "upComingMatchesListvsCode": " FEY",
+      "nextMatchTime": "2/10/2019 12:00:00 AM"
+  },
+  {
+      "id": 5,
+      "img": "http://localhost:5500/player-images/93321.jpg",
+      "pfName": "Karim Benzema",
+      "tName": "Real Madrid",
+      "skillDesc": "Forward",
+      "value": "$10.0",
+      "upComingMatchesListcCode": "RM",
+      "upComingMatchesListvsCode": " BVB",
+      "nextMatchTime": "2/10/2019 12:00:00 AM"
+  },
+  {
+      "id": 6,
+      "img": "http://localhost:5500/player-images/95803.jpg",
+      "pfName": "Linoel Messi",
+      "tName": "Barcelona  ",
+      "skillDesc": "Forward",
+      "value": "$11.5",
+      "upComingMatchesListcCode": "BAR",
+      "upComingMatchesListvsCode": " SCP",
+      "nextMatchTime": "2/10/2019 12:00:00 AM"
+  },
+  {
+      "id": 7,
+      "img": "http://localhost:5500/player-images/101528.jpg",
+      "pfName": "Kevin Gameiro",
+      "tName": "Atletico",
+      "skillDesc": "Forward",
+      "value": "$9.0",
+      "upComingMatchesListcCode": "ATL",
+      "upComingMatchesListvsCode": " CHE",
+      "nextMatchTime": "2/10/2019 12:00:00 AM"
+  },
+  {
+      "id": 8,
+      "img": "http://localhost:5500/player-images/102225.jpg",
+      "pfName": "Gareth Bale",
+      "tName": "Real Madrid",
+      "skillDesc": "Forward",
+      "value": "$10.5",
+      "upComingMatchesListcCode": "RM",
+      "upComingMatchesListvsCode": " BVB",
+      "nextMatchTime": "2/10/2019 12:00:00 AM"
+  },
+  {
+      "id": 9,
+      "img": "http://localhost:5500/player-images/103310.jpg",
+      "pfName": "Ivan Perišić",
+      "tName": "Internazionale",
+      "skillDesc": "Midfield",
+      "value": "$9.0",
+      "upComingMatchesListcCode": " ",
+      "upComingMatchesListvsCode": " ",
+      "nextMatchTime": "2/10/2019 12:00:00 AM"
+  },
+  {
+      "id": 10,
+      "img": "http://localhost:5500/player-images/106375.jpg",
+      "pfName": "Luis Suárez",
+      "tName": "Barcelona",
+      "skillDesc": "Forward",
+      "value": "$10.5",
+      "upComingMatchesListcCode": "BAR",
+      "upComingMatchesListvsCode": " SCP",
+      "nextMatchTime": "2/10/2019 12:00:00 AM"
+  },
+  {
+      "id": 11,
+      "img": "http://localhost:5500/player-images/1900730.jpg",
+      "pfName": "Diego Costa",
+      "tName": "Atlético",
+      "skillDesc": "Forward",
+      "value": "$10.0",
+      "upComingMatchesListcCode": "ATL",
+      "upComingMatchesListvsCode": " CHE",
+      "nextMatchTime": "2/10/2019 12:00:00 AM"
+  },
+  {
+      "id": 12,
+      "img": "http://localhost:5500/player-images/1903543.jpg",
+      "pfName": "Sergio Agüero",
+      "tName": "Man. City",
+      "skillDesc": "Forward",
+      "value": "$10.5",
+      "upComingMatchesListcCode": "MC",
+      "upComingMatchesListvsCode": " SHK",
+      "nextMatchTime": "2/10/2019 12:00:00 AM"
+  },
+  {
+      "id": 13,
+      "img": "./player-images/1905153.jpg",
+      "pfName": "Ángel Di María",
+      "tName": "Paris",
+      "skillDesc": "Midfield",
+      "value": "$8.5",
+      "upComingMatchesListcCode": "PAR",
+      "upComingMatchesListvsCode": " BAY",
+      "nextMatchTime": "2/10/2019 12:00:00 AM"
+  },
+  {
+      "id": 14,
+      "img": "http://localhost:5500/player-images/1905788.jpg",
+      "pfName": "Sandro Wagner",
+      "tName": "Bayern",
+      "skillDesc": "Forward",
+      "value": "$9.0",
+      "upComingMatchesListcCode": "BAY",
+      "upComingMatchesListvsCode": " PAR",
+      "nextMatchTime": "2/10/2019 12:00:00 AM"
+  },
+  {
+      "id": 15,
+      "img": "http://localhost:5500/player-images/1905813.jpg",
+      "pfName": "Edinson Cavani",
+      "tName": "Paris",
+      "skillDesc": "Forward",
+      "value": "$11.0",
+      "upComingMatchesListcCode": "PAR",
+      "upComingMatchesListvsCode": " BAY",
+      "nextMatchTime": "2/10/2019 12:00:00 AM"
+  }
+  ]   
+}
